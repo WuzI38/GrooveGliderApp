@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Theme.GrooveGlider" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/icon_orange</item>
+        <item name="colorPrimaryVariant">@color/menu_orange</item>
+
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="bottomNavigationStyle">@color/white</item>
+    </style>
+</resources>

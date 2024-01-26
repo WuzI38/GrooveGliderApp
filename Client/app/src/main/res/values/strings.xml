@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GrooveGlider</string>
+    <string name="title_songs">Songs</string>
+    <string name="title_server">Server</string>
+    <string name="title_upload">Upload</string>
+    <string name="artist">Artist</string>
+    <string name="song">Song</string>
+    <string name="button_songs">Remove from queue</string>
+    <string name="search">Search</string>
+    <string name="app_logo">App logo</string>
+    <string name="upload">Upload song</string>
+    <string name="button_main_prev">Main activity previous</string>
+    <string name="button_main_pause">Main activity pause</string>
+    <string name="button_main_next">Main activity next</string>
+    <string name="title_activity_connection_checker">ConnectionChecker</string>
+    <string name="loading">Waiting for server…</string>
+    <string name="title">Title</string>
+    <string name="choose_file">Choose file</string>
+</resources>
